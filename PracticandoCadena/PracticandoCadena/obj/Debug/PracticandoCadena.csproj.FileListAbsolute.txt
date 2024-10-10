@@ -1,0 +1,10 @@
+E:\repo\PracticandoCadena\PracticandoCadena\bin\Debug\PracticandoCadena.exe.config
+E:\repo\PracticandoCadena\PracticandoCadena\bin\Debug\PracticandoCadena.exe
+E:\repo\PracticandoCadena\PracticandoCadena\bin\Debug\PracticandoCadena.pdb
+E:\repo\PracticandoCadena\PracticandoCadena\obj\Debug\PracticandoCadena.csproj.AssemblyReference.cache
+E:\repo\PracticandoCadena\PracticandoCadena\obj\Debug\PracticandoCadena.Form1.resources
+E:\repo\PracticandoCadena\PracticandoCadena\obj\Debug\PracticandoCadena.Properties.Resources.resources
+E:\repo\PracticandoCadena\PracticandoCadena\obj\Debug\PracticandoCadena.csproj.GenerateResource.cache
+E:\repo\PracticandoCadena\PracticandoCadena\obj\Debug\PracticandoCadena.csproj.CoreCompileInputs.cache
+E:\repo\PracticandoCadena\PracticandoCadena\obj\Debug\PracticandoCadena.exe
+E:\repo\PracticandoCadena\PracticandoCadena\obj\Debug\PracticandoCadena.pdb
